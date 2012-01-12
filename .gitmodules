@@ -1,0 +1,3 @@
+[submodule "itoa-jnipp"]
+	path = itoa-jnipp
+	url = git://github.com/DmitrySkiba/itoa-jnipp.git
